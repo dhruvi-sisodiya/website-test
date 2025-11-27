@@ -1,0 +1,37 @@
+[
+  {
+    "id": 25456987366429,
+    "name": "Study Settings",
+    "category_id": 25457035135005
+  },
+  {
+    "id": 25457005624349,
+    "name": "Launch",
+    "category_id": 25457035135005
+  },
+  {
+    "id": 25457015415453,
+    "name": "Responses and Recordings",
+    "category_id": 25457035135005
+  },
+  {
+    "id": 25457022454173,
+    "name": "Study Setup",
+    "category_id": 25457035135005
+  },
+  {
+    "id": 25457032160541,
+    "name": "Settings and Admin",
+    "category_id": 25457035135005
+  },
+  {
+    "id": 25457032309917,
+    "name": "Interview Plan",
+    "category_id": 25457035135005
+  },
+  {
+    "id": 25562911720605,
+    "name": "Results and Reports",
+    "category_id": 25457035135005
+  }
+]
